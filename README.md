@@ -143,8 +143,12 @@
 
 ## 📊 GitHub Overview
 <div align="center">
+ 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaygohelceh&theme=tokyonight" />
+</p>
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jaygohelceh&show_icons=true&theme=tokyonight" /> -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaygohelceh&theme=tokyonight" />
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaygohelceh&theme=tokyonight" /> -->
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaygohelceh&layout=compact&theme=tokyonight" /> -->
 </div>
 
